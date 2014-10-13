@@ -1,3 +1,3 @@
-SUPER v3.5
+SUPER v3.6
 
-Add two GATK tools to extract INDEL target and realign it.
+Adapt script for all users
